@@ -7,7 +7,7 @@ const projects = [
     description:
       "AI-powered resume analyzer that evaluates resumes for cloud, distributed systems, and microservices skills. Built with FastAPI + React and designed to be fully free using a rule based scoring engine, with optional AI integration later.",
     tags: ["Python", "Flask", "React", "TypeScript", "FastAPI"],
-    github: "https://github.com/Kirank8502",
+    github: "https://github.com/Kirank8502/AI-Resume-Optimizer.git",
     live: "",
     featured: true,
   },
@@ -16,7 +16,7 @@ const projects = [
     description:
       "A distributed file storage system implemented using Python and gRPC. Supports upload/download operations, replication across multiple storage nodes, and basic fault tolerance with a coordinator node architecture.",
     tags: ["Python", "gRPC", "Distributed Systems"],
-    github: "https://github.com/Kirank8502",
+    github: "https://github.com/Kirank8502/Distributed-File-Storage.git",
     live: "",
     featured: true,
   },
