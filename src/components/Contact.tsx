@@ -140,7 +140,7 @@ const Contact = () => {
 
             {/* Contact form */}
             <div className="bg-card rounded-2xl border border-border p-8">
-              <form onSubmit={handleSubmit} className="space-y-6">
+              <form onSubmit={handleSubmit} className="space-y-6" netlify>
                 <div>
                   <label htmlFor="name" className="block text-sm font-medium mb-2">
                     Name
